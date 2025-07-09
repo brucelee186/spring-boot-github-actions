@@ -8,24 +8,13 @@
         <version>3.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.neo</groupId>
     <artifactId>spring-boot-github-actions</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-github-actions</name>
     <description>spring-boot-github-actions</description>
-    <url/>
-    <licenses>
-        <license/>
-    </licenses>
-    <developers>
-        <developer/>
-    </developers>
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
+
     <properties>
         <java.version>21</java.version>
     </properties>
