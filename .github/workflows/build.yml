@@ -1,6 +1,7 @@
 name: Java CI/CD with Maven and Run JAR
 
 on:
+  # Push events can be configured to trigger the workflow on push or pull request events, but not both
   push:
     branches: [ "master" ]
   pull_request:
